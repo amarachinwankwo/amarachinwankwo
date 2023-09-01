@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amarachinwankwo
+- 👀 I’m interested in everything data
+- 🌱 I’m currently learning Data analysis
+- 💞️ I’m looking to collaborate on data analytics projects
