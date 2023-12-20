@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amarachinwankwo
-- 👀 I’m interested in everything data
-- 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on data analytics projects
+- 👋 Hi, I am Amarachi Nwankwo a Data Analyst. I have ln-depth knowledge of Excel, PowerBI and SQL and l have been able to use these tools to clean data, visualise data, generate business questions, create database and tables and execute quesries using various commands.
+- 👀 I’m interested in everything data, visualisation, sloving business problems and making data-driven decisions.
+- 🌱 I’m currently learning Excel, PowerBI and SQL.
+- 💞️ I’m looking to collaborate on data analytics projects.
